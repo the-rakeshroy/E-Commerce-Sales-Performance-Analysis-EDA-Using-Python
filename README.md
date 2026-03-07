@@ -1,5 +1,5 @@
 # E-Commerce Sales Performance Analysis (EDA) Using Python
-![EDA Project](images/EDA_Using_Python.png)
+![EDA Project](https://github.com/the-rakeshroy/E-Commerce-Sales-Performance-Analysis-EDA-Using-Python/blob/3640a9d09dd2c6875967ac84e9dca9420881c281/Image/EDA%20Using%20Python.png)
 ## Project Overview
 This project performs Exploratory Data Analysis (EDA) on an e-commerce sales dataset to uncover insights about sales performance, product categories, customer segments, and profitability.
 
