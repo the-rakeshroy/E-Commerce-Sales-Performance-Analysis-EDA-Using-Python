@@ -1,13 +1,13 @@
-# E-Commerce Sales Performance Analysis (EDA) Using Python
+# 📊 E-Commerce Sales Performance Analysis (EDA) Using Python
 ![EDA Project](https://github.com/the-rakeshroy/E-Commerce-Sales-Performance-Analysis-EDA-Using-Python/blob/3640a9d09dd2c6875967ac84e9dca9420881c281/Image/EDA%20Using%20Python.png)
-## Project Overview
+## 📌 Project Overview
 This project performs Exploratory Data Analysis (EDA) on an e-commerce sales dataset to uncover insights about sales performance, product categories, customer segments, and profitability.
 
 The goal of the project is to understand business trends and identify patterns that can help improve sales strategy and decision-making.
 
 ---
 
-## Tools & Libraries Used
+## 🛠 Tools & Libraries Used
 - Python
 - Pandas (pd)
 - NumPy (np)
@@ -16,7 +16,7 @@ The goal of the project is to understand business trends and identify patterns t
 
 ---
 
-## Data Cleaning
+## 🧹 Data Cleaning
 Before performing the analysis, the dataset was cleaned to ensure data quality.
 
 The following steps were performed:
@@ -28,7 +28,7 @@ The following steps were performed:
 
 ---
 
-## Exploratory Data Analysis
+## 🔎 Exploratory Data Analysis
 Several business-focused questions were explored during the analysis:
 
 - Monthly sales trend analysis
@@ -41,7 +41,7 @@ Several business-focused questions were explored during the analysis:
 
 ---
 
-## Key Visualizations
+## 📈 Key Visualizations
 The project includes multiple visualizations to better understand sales and profit patterns.
 
 Examples include:
@@ -54,7 +54,7 @@ Examples include:
 
 ---
 
-## Key Business Insights
+## 💡 Key Business Insights
 Some important insights derived from the analysis include:
 
 - Certain product categories generate higher sales compared to others.
@@ -64,8 +64,7 @@ Some important insights derived from the analysis include:
 
 ---
 
-## Project Structure
-
+## 📂 Project Structure
 ```
 Ecommerce-Sales-EDA
 │
@@ -89,7 +88,7 @@ Ecommerce-Sales-EDA
 
 ---
 
-## Skills Demonstrated
+## 🚀 Skills Demonstrated
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Data Visualization
