@@ -66,15 +66,26 @@ Some important insights derived from the analysis include:
 
 ## Project Structure
 
+```
 Ecommerce-Sales-EDA
 │
-├── Ecommerce_sales.ipynb
-├── Superstore.csv
+├── notebook
+│   └── Ecommerce_sales.ipynb
+│
+├── dataset
+│   └── Superstore.csv
+│
 ├── images
+│   ├── EDA_Using_Python.png
 │   ├── monthly_sales.png
 │   ├── category_sales.png
 │   └── segment_analysis.png
+│
+├── business_questions.pdf
+│
 └── README.md
+```
+
 
 ---
 
